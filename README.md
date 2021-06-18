@@ -1,1 +1,1 @@
-# JavaTelegramBotV1_0
+# JavaTelegramBot
